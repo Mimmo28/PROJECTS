@@ -21,8 +21,8 @@ I develop every project with a **Security-by-Design** approach, applying the cor
 
 | Project Name | Tech Stack | Documentation | Live Demo |
 | :--- | :--- | :--- | :--- |
-| **MegaShopArredi** | Astro 6, Tailwind CSS 4, PHP, i18n | [Technical Specs](./projects/megashoparredi.md) | [Visit Live]([megashoparredi.it](https://www.megashoparredi.it)) |
-| **RoccaCiniè** | Astro 6, Tailwind CSS 4, PHP, i18n | [Technical Specs](./projects/roccacinie.md) | [Visit Live]([roccacinie.it](https://www.roccacinie.it)) |
+| **MegaShopArredi** | Astro 6, Tailwind CSS 4, PHP, i18n | [Technical Specs](./projects/megashoparredi.md) | [Visit Live](https://www.megashoparredi.it) |
+| **RoccaCiniè** | Astro 6, Tailwind CSS 4, PHP, i18n | [Technical Specs](./projects/roccacinie.md) | [Visit Live](https://www.roccacinie.it) |
 | *Future Project* | *Coming Soon* | *In Progress* | - |
 
 ---
