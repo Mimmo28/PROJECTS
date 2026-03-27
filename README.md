@@ -11,11 +11,10 @@ Welcome to my technical showcase. This repository is a professional hub for docu
 
 I develop every project with a **Security-by-Design** approach, applying the core principles of Information Systems Security:
 
-*   **Confidentiality & Integrity:** All data handling follows modern cryptographic standards to ensure information remains private and unaltered (**Ref: 01_intro & 02_crypto**).
-*   **Robust Authentication:** Implementing secure identity management and multi-factor authentication protocols (**Ref: 03_authentication**).
-*   **Perimeter & Network Defense:** Applications are designed with secure API communication, strict CORS policies, and firewall-compatible architectures (**Ref: 04_netsec & 05_firewall**).
+*   **Confidentiality & Integrity:** All data handling follows modern cryptographic standards to ensure information remains private and unaltered.
+*   **Robust Authentication:** Implementing secure identity management and multi-factor authentication protocols.
+*   **Perimeter & Network Defense:** Applications are designed with secure API communication, strict CORS policies, and firewall-compatible architectures.
 *   **Performance Engineering:** Leveraging frameworks like **Astro** to deliver high-speed, accessible, and SEO-optimized web solutions.
-
 ---
 
 ## 📂 Project Portfolio
