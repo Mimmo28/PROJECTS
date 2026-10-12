@@ -25,6 +25,8 @@ I develop every project with a **Security-by-Design** approach, applying the cor
 | **RoccaCiniè** | Astro 6, Tailwind CSS 4, PHP, i18n, E-commerce (Preact & Nano Stores) | [Technical Specs](./projects/roccacinie.md) | [Visit Live](https://www.roccacinie.it) |
 | **MarcoTendaggi** | Astro, Tailwind CSS 4, TypeScript, i18n | [Technical Specs](./projects/marcotendaggi.md) | [Visit Live](https://mimmo28.github.io/marcotendaggi/) |
 | **Lectio** | Python, PyMuPDF, Gemini API, Chromium Headless | [Technical Specs](./projects/lectio.md) | [GitHub Repo](https://github.com/Mimmo28/lectio) |
+| **Luxelia** | WordPress, WooCommerce, PHP, REST API, Python | [Technical Specs](./projects/luxelia.md) | [Visit Live](https://www.luxelia.it) |
+| *Future Project* | *Coming Soon* | *In Progress* | - |
 
 ---
 
