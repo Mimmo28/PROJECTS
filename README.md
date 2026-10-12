@@ -1,61 +1,52 @@
 # 🚀 Engineering Projects Showcase
-### Domenico Filippo Innamorato | Computer Engineer
+### Domenico Filippo Innamorato | Computer Engineer | MSc Cybersecurity @ PoliTO
 
-Welcome to my technical showcase. This repository is a professional hub for documenting my software projects. 
+Welcome to my technical showcase. This repository is a professional hub for documenting my software architectures and implementations.
 
-> **Note:** The source code for these projects is hosted in **private repositories** to protect intellectual property and business logic. This space provides architectural overviews, implementation details, and security assessments.
+> **Note:** The source code for several client or proprietary systems is hosted in **private repositories** to protect intellectual property and business logic. This repository provides architectural overviews, technical design decisions, and security audits.
 
 ---
 
 ## 🛡️ Engineering Mindset & Security Standards
 
-I develop every project with a **Security-by-Design** approach, applying the core principles of Information Systems Security:
+I develop every project with a **Security-by-Design** approach, applying core principles of Information Systems Security:
 
-*   **Confidentiality & Integrity:** All data handling follows modern cryptographic standards to ensure information remains private and unaltered.
-*   **Robust Authentication:** Implementing secure identity management and multi-factor authentication protocols.
-*   **Perimeter & Network Defense:** Applications are designed with secure API communication, strict CORS policies, and firewall-compatible architectures.
-*   **Performance Engineering:** Leveraging frameworks like **Astro** to deliver high-speed, accessible, and SEO-optimized web solutions.
+*   **Confidentiality & Integrity:** All data handling follows modern cryptographic standards ensuring information remains private and unaltered.
+*   **Robust Authentication & Access Control:** Strict RBAC, session management, and secure token/credential handling.
+*   **Perimeter & Network Defense:** Secure API communication, strict CORS policies, and firewall-compatible architectures.
+*   **Performance Engineering:** Static-first approaches (Astro), minimal JS footprint, and low-latency deterministic execution.
+
 ---
 
 ## 📂 Project Portfolio
 
-| Project Name | Tech Stack | Documentation | Live Demo |
+| Project Name | Domain / Tech Stack | Documentation | Live / Code |
 | :--- | :--- | :--- | :--- |
-| **MegaShopArredi** | Astro 6, Tailwind CSS 4, PHP, i18n | [Technical Specs](./projects/megashoparredi.md) | [Visit Live](https://www.megashoparredi.it) |
-| **RoccaCiniè** | Astro 6, Tailwind CSS 4, PHP, i18n, E-commerce (Preact & Nano Stores) | [Technical Specs](./projects/roccacinie.md) | [Visit Live](https://www.roccacinie.it) |
-| **MarcoTendaggi** | Astro, Tailwind CSS 4, TypeScript, i18n | [Technical Specs](./projects/marcotendaggi.md) | [Visit Live](https://mimmo28.github.io/marcotendaggi/) |
-| **Lectio** | Python, PyMuPDF, Gemini API, Chromium Headless | [Technical Specs](./projects/lectio.md) | [GitHub Repo](https://github.com/Mimmo28/lectio) |
-| **Luxelia** | WordPress, WooCommerce, PHP, REST API, Python | [Technical Specs](./projects/luxelia.md) | [Visit Live](https://www.luxelia.it) |
-| *Future Project* | *Coming Soon* | *In Progress* | - |
+| **Luxelia** | SEO Plugin & WooCommerce Automation (PHP, WordPress, REST APIs) | [Technical Specs](./projects/luxelia.md) | [Visit Live](https://www.luxelia.it) |
+| **Lectio** | AI Lecture Slide Augmentation Engine (Python, PyMuPDF, Gemini API) | [Technical Specs](./projects/lectio.md) | [GitHub Repo](https://github.com/Mimmo28/lectio) |
+| **CourtMate** | Sports Facility Management System (Java, JavaFX, MySQL, JDBC) | [Technical Specs](./projects/courtmate.md) | *Academic (UniPA)* |
+| **FreeRTOS Schedulers** | Real-Time Embedded Systems Scheduling (C, FreeRTOS) | [Technical Specs](./projects/freertos-scheduling.md) | *Academic (PoliTO)* |
+| **MegaShopArredi** | High-Performance Static E-Commerce (Astro 6, Tailwind CSS 4, PHP) | [Technical Specs](./projects/megashoparredi.md) | [Visit Live](https://www.megashoparredi.it) |
+| **RoccaCiniè** | Production Web Platform & Shop (Astro 6, Tailwind CSS 4, Preact) | [Technical Specs](./projects/roccacinie.md) | [Visit Live](https://www.roccacinie.it) |
+| **MarcoTendaggi** | SME Corporate Web Platform (Astro, Tailwind CSS 4, TypeScript) | [Technical Specs](./projects/marcotendaggi.md) | [Visit Live](https://mimmo28.github.io/marcotendaggi/) |
 
 ---
 
 ## 🏗️ Technical Documentation Structure
-For each project listed above, I provide a detailed breakdown including:
-# 🏗️ Technical Documentation Structure: Mega Shop Arredi & RoccaCinie
-### **1. System Architecture**
-The website is built using **Astro 6** with a **Static Site Generation (SSG)** approach. The architecture is centered around **reusable components** and an efficient asset management system:
-- **Dynamic Routing**: Product collections are automatically generated by scanning the directory structure in `public/images/`.
-- **Custom i18n Logic**: A lightweight internationalization system in `src/i18n` handles multi-language translations and routing without external dependencies.
-- **Islands Architecture**: Minimal JavaScript is used, loaded only when necessary (e.g., for the Cookie Banner or Lightbox) to ensure top-tier performance.
-### **2. Implementation Highlights**
-- **Native Lightbox System**: Developed a high-performance, native image gallery system to avoid heavy external libraries and keep the site ultra-fast.
-- **Image Optimization**: Leveraged Astro’s `Image` component for lazy-loading and automatic conversion to modern formats like **WebP** and **AVIF**.
-- **AI-Ready Documentation**: Implemented the `llms.txt` standard to make the website easily discoverable and recommendable by AI agents (ChatGPT, Gemini).
-- **Glassmorphism Header**: A modern, semi-transparent sticky header that provides a premium look and feel while maintaining accessibility on mobile devices.
-### **3. Security Audit**
-- **Zero Attack Surface**: As a static site, there are no databases or server-side scripts vulnerable to SQL injection or traditional backend exploits.
-- **Hardened Security Headers**: Implementation of **HSTS**, **Anti-Clickjacking** layers, and a strict **Content-Security-Policy (CSP)** to prevent XSS attacks.
-- **Clean Dependencies**: Regular `npm audit` checks ensure that the project is built on top of secure, up-to-date packages with zero known vulnerabilities.
+
+For each project listed above, detailed specifications cover:
+1. **System Architecture:** High-level component decomposition, data flows, routing, and persistence models.
+2. **Implementation Highlights:** Key engineering solutions, asset optimization, rendering strategies, and design patterns.
+3. **Security Audit:** Threat mitigation, attack surface reduction, cryptographic standards, and secure coding practices.
 
 ---
 
 ## 📫 Connect with Me
 
-*   **LinkedIn:** [
-www.linkedin.com/in/domenico-filippo-innamorato-a43608219]
+*   **LinkedIn:** [linkedin.com/in/domenico-filippo-innamorato-a43608219](https://www.linkedin.com/in/domenico-filippo-innamorato-a43608219)
+*   **GitHub:** [github.com/Mimmo28](https://github.com/Mimmo28)
+*   **Email:** domenicoinnamorato@gmail.com
 *   **Professional Art Name:** **The Dev Heart**
-*   **Website:** 
 
 ---
 
