@@ -29,6 +29,8 @@ I develop every project with a **Security-by-Design** approach, applying core pr
 | **MegaShopArredi** | High-Performance Static E-Commerce (Astro 6, Tailwind CSS 4, PHP) | [Technical Specs](./projects/megashoparredi.md) | [Visit Live](https://www.megashoparredi.it) |
 | **RoccaCiniè** | Production Web Platform & Shop (Astro 6, Tailwind CSS 4, Preact) | [Technical Specs](./projects/roccacinie.md) | [Visit Live](https://www.roccacinie.it) |
 | **MarcoTendaggi** | SME Corporate Web Platform (Astro, Tailwind CSS 4, TypeScript) | [Technical Specs](./projects/marcotendaggi.md) | [Visit Live](https://mimmo28.github.io/marcotendaggi/) |
+| **Android Railway Services** | Mobile Transit App & Backend (Kotlin, Android Studio, Flask) | [Technical Specs](./projects/android-railway-services.md) | *Academic (UniPA)* |
+| **Satellite Feedback Control** | Satellite Attitude & Orbit Simulation (MATLAB, Simulink, SISO Tool) | [Technical Specs](./projects/satellite-feedback-control.md) | *Academic (UniPA)* |
 
 ---
 
