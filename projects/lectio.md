@@ -48,4 +48,4 @@ Rather than processing slides in rigid arbitrary batches, Lectio features a dual
 ---
 
 > **Developer:** Domenico Filippo Innamorato  
-> **Repository:** [https://github.com/Mimmo28/lectio](https://github.com/Mimmo28/lectio)
+> **Source Repository:** *Private IP / Confidential Repository*

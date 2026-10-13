@@ -23,7 +23,7 @@ I develop every project with a **Security-by-Design** approach, applying core pr
 | Project Name | Domain / Tech Stack | Documentation | Live / Code |
 | :--- | :--- | :--- | :--- |
 | **Luxelia** | SEO Plugin & WooCommerce Automation (PHP, WordPress, REST APIs) | [Technical Specs](./projects/luxelia.md) | [Visit Live](https://www.luxelia.it) |
-| **Lectio** | AI Lecture Slide Augmentation Engine (Python, PyMuPDF, Gemini API) | [Technical Specs](./projects/lectio.md) | [GitHub Repo](https://github.com/Mimmo28/lectio) |
+| **Lectio** | AI Lecture Slide Augmentation Engine (Python, PyMuPDF, Gemini API) | [Technical Specs](./projects/lectio.md) | *Private CLI/Tool* |
 | **CourtMate** | Sports Facility Management System (Java, JavaFX, MySQL, JDBC) | [Technical Specs](./projects/courtmate.md) | *Academic (UniPA)* |
 | **FreeRTOS Schedulers** | Real-Time Embedded Systems Scheduling (C, FreeRTOS) | [Technical Specs](./projects/freertos-scheduling.md) | *Academic (PoliTO)* |
 | **MegaShopArredi** | High-Performance Static E-Commerce (Astro 6, Tailwind CSS 4, PHP) | [Technical Specs](./projects/megashoparredi.md) | [Visit Live](https://www.megashoparredi.it) |
